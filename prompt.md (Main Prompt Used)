@@ -1,0 +1,19 @@
+Act as a nutritionist.
+Task:
+Explain a daily diet for a cricketer in India.
+Tone:
+Simple and beginner friendly
+Mandatory Sections:
+- Morning diet
+- Mid-day meal
+- Night diet
+- Water intake
+-Pre and post practice
+
+Rules:
+- Budget under ₹20,000 per month
+- No medicines or supplements
+- Use simple language
+- use only indian food
+- If any section is missing, regenerate the answer
+
